@@ -42,7 +42,7 @@
           <div class="center-xs">
             {{ $t('or') }}
             <a href="#" @click.prevent="switchElem">
-              {{ $t('return to log in') }}
+              {{ $t('Return to log in') }}
             </a>
           </div>
         </form>
